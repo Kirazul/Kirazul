@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mohamed Aziz Mansour!
 
-## 🚀 About Me
+
 👨‍💻 currently a development student.<br>🚀 focusing on enhancing my coding skills.<br>🛠️ working on building projects and learning continuously.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
