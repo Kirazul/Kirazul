@@ -1,5 +1,5 @@
 <p align="center">
-# Hi there, I'm Kira 👋
+  <h1>Hi there, I'm Kira 👋</h1>
 </p>
 
 <p align="left"> 
