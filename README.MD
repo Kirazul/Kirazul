@@ -1,4 +1,6 @@
-# Hi there, I'm Kira 👋
+<p align="center">
+  # Hi there, I'm Kira 👋
+</p>
 
 <p align="left"> 
   <a href="https://github.com/Kirazul">
