@@ -1,7 +1,7 @@
 <p align="center">
   <h1>Hi there, I'm Kira 👋</h1>
 </p>
- 
+  
 <p align="left"> 
   <a href="https://github.com/Kirazul">
     <img alt="Kirazul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kirazul&show_icons=true&theme=tokyonight&rank_icon=github" /> 
