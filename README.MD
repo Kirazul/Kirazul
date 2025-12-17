@@ -18,13 +18,3 @@ I'm passionate about everything related to automation and LLMs APIs. I love expl
 
 - 🔭 Currently exploring various automation tools, frameworks, and integrating LLMs APIs into projects.
 - 🌱 Continuously refining my knowledge in building smarter, more efficient systems.
-- 📫 How to reach me: [GitHub](https://github.com/Kirazul)
-
----
-
-### 📊 My GitHub Stats
-<p align="center">
-  <a href="https://github.com/Kirazul">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirazul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
