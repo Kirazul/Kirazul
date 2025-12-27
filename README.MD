@@ -18,9 +18,9 @@
 
 I'm passionate about **automation** and **LLM APIs**, constantly exploring innovative ways to streamline workflows and build intelligent systems.
 
-- 🤖 Currently exploring **Automation tools** and **LLM API** integrations
-- 🌱 Continuously refining my knowledge in building smarter, efficient systems
-- 💡 Love simplifying complex tasks and creating intelligent solutions
+- Currently exploring **Automation tools** and **LLM API** integrations
+- Continuously refining my knowledge in building smarter, efficient systems
+- Love simplifying complex tasks and creating intelligent solutions
 
 ---
 
