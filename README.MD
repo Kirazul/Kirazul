@@ -48,10 +48,7 @@ I'm passionate about **automation** and **LLM APIs**, constantly exploring innov
   
 
 
-  <!-- Trophies (Replaces standard Stats) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kirazul&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="Kirazul's Trophies" />
-  </a>
+
 
 
 
