@@ -46,14 +46,14 @@ I'm passionate about **automation** and **LLM APIs**, constantly exploring innov
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirazul&theme=tokyonight&hide_border=true&area=true" width="94%" alt="Activity Graph" />
   </a>
   
-  <br><br>
+
 
   <!-- Trophies (Replaces standard Stats) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Kirazul&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="Kirazul's Trophies" />
   </a>
 
-  <br>
+
 
   <!-- Productive Time (Replaces Streak) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kirazul&theme=tokyonight&utcOffset=8" alt="Productive Time Graph" />
