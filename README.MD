@@ -44,7 +44,7 @@ I'm passionate about **automation** and **LLM APIs**, constantly exploring innov
 
   <!-- Activity Graph (The Wave) -->
   <a href="https://github.com/Kirazul">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirazul&theme=dracula&hide_border=true&area=true" width="94%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirazul&bg_color=0d1117&color=FF7372&line=FF7372&point=FF7372&area=true&hide_border=true" width="94%" alt="Activity Graph" />
   </a>
   
 </div>
