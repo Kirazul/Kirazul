@@ -38,7 +38,7 @@ I'm passionate about **automation** and **LLM APIs**, constantly exploring innov
 
 ---
 
-### 🏆 Achievements & Activity
+### 🏆 Contribution
 
 <div align="center">
 
