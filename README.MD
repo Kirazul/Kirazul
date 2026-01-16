@@ -1,6 +1,8 @@
 <div align="center">
  
   # Hi there, I'm Kira 👋
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kirazul&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Kirazul/github-widgetbox)
+
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Automation+Enthusiast;LLM+API+Developer;Building+Smart+Systems)](https://git.io/typing-svg)
 
