@@ -11,8 +11,11 @@
   </p>
 
 </div>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kirazul&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kirazul&theme=aura_dark&utcOffset=8)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kirazul&theme=aura_dark" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kirazul&theme=aura_dark&utcOffset=8" width="49%" />
+</div>
+
 
 ---
 
