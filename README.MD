@@ -4,11 +4,6 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Automation+Enthusiast;LLM+API+Developer;Building+Smart+Systems)](https://git.io/typing-svg)
 
-  <p>
-    <a href="https://github.com/Kirazul">
-      <img src="https://komarev.com/ghpvc/?username=Kirazul&color=blueviolet&style=flat-square" alt="Profile Views" />
-    </a>
-  </p>
 
 </div>
 <div align="center">
