@@ -11,6 +11,8 @@
   </p>
 
 </div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kirazul&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kirazul&theme=aura_dark&utcOffset=8)
 
 ---
 
