@@ -1,8 +1,6 @@
 <div align="center">
  
   # Hi there, I'm Kira 👋
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kirazul&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Kirazul/github-widgetbox)
-
 
   <p>
     <a href="https://github.com/Kirazul">
