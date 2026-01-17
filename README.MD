@@ -1,6 +1,6 @@
 <div align="center">
  
-  # Hi there, I'm Kira 👋
+  # Hi there, I'm Aziz 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7372&center=true&vCenter=true&width=435&lines=Automation+Enthusiast;LLM+API+Developer;Building+Smart+Systems)](https://git.io/typing-svg)
 
