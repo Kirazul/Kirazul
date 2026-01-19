@@ -23,7 +23,7 @@ I'm passionate about **automation** and **LLMs**, constantly exploring innovativ
 <div align="center">
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kirazul&theme=aura_dark" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kirazul&theme=aura_dark&utcOffset=8" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kirazul&theme=aura_dark&utcOffset=8" width="49%" />
 
   <br><br>
 
