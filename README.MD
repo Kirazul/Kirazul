@@ -72,6 +72,7 @@ I'm passionate about **automation** and **LLMs**, constantly exploring innovativ
 
 </div>
 
+<div align="center">
 
   💬 _"Automating the future, one API call at a time"_
 
