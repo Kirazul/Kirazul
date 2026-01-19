@@ -68,8 +68,10 @@ I'm passionate about **automation** and **LLMs**, constantly exploring innovativ
 <div align="center">
 
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kirazul)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-mansour-bb0a51331/)
 
-  <br>
+</div>
+
 
   💬 _"Automating the future, one API call at a time"_
 
