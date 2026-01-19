@@ -49,7 +49,7 @@ I'm passionate about **automation** and **LLMs**, constantly exploring innovativ
   <br>
 
   <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img alt="Deno" src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white"/>
+<img alt="Deno" src="https://img.shields.io/badge/Deno-2563EB?style=for-the-badge&logo=deno&logoColor=white"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 
