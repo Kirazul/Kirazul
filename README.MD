@@ -55,7 +55,6 @@ I'm passionate about **automation** and **LLMs**, constantly exploring innovativ
 
   <br>
 
-  <img alt="RESTful API" src="https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge&logo=api&logoColor=white"/>
   <img alt="AI/ML" src="https://img.shields.io/badge/AI/ML-FF6B6B?style=for-the-badge&logo=ai&logoColor=white"/>
 
 </div>
