@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aziz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7372&center=true&vCenter=true&width=435&lines=Automation+Enthusiast;API+Developer;Building+Smart+Systems)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7372&center=true&vCenter=true&width=435&lines=Automation+Enthusiast;Building+Smart+Systems)](https://git.io/typing-svg)
 
 </div>
 
